@@ -1,0 +1,26 @@
+# .NET
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+appsettings.Development.json
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+*.mode1v3
+*.symbols
+*.functions
+.pub-cache/
+.pub/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
